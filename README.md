@@ -3,4 +3,4 @@ This repo includes two movie clips professionally filmed with the same crew (fou
 
 [[https://github.com/fahsuanlin/asociality_movies/blob/main/images/Figure1.png]]
 
-![[https://github.com/fahsuanlin/asociality_movies/blob/main/images/Figure%201.png]]
+[[https://github.com/fahsuanlin/asociality_movies/blob/main/images/Figure%201.png]]
