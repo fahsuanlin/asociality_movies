@@ -6,4 +6,4 @@ This repo includes two movie clips professionally filmed with the same crew (fou
 
 ![Movie sample](https://github.com/fahsuanlin/asociality_movies/blob/main/doc/social_movie_basketball_trim1.mov)
 
-As movie files are large (>250 Mbytes), please [contact us](email: fhlin@sri.utoronto.ca) to get files.
+As movie files are large (>250 Mbytes), please [contact us](email:fhlin@sri.utoronto.ca) to get files.
