@@ -4,6 +4,6 @@ This repo includes two movie clips professionally filmed with the same crew (fou
 ![](https://github.com/fahsuanlin/asociality_movies/blob/main/images/Figure%201.png)
 
 
-![Movie sample](https://github.com/fahsuanlin/asociality_movies/blob/main/doc/social_movie_basketball_trim1.mov)
+![Here](https://github.com/fahsuanlin/asociality_movies/blob/main/doc/social_movie_basketball_trim1.mov) is the link to the sampled movie clips with low-level (left) and high-level (right) social interactions.
 
 As movie files are large (>250 Mbytes), please [contact us](mailto:fhlin@sri.utoronto.ca) to get files.
