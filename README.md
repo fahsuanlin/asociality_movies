@@ -2,9 +2,7 @@
 
 This repo includes two movie clips professionally filmed with the same crew (four players) to show either high- or low-level verbal and non-verbal social interactions. The movie’s theme was people playing basketball in an outdoor court, and the scenes in the two movie clips matched with each other. The duration of each film was 5 min 5 s.  
 
-![Yang, MT., Fan, HC., Lee, HJ. et al. Inter-subject gamma oscillation synchronization as a biomarker of abnormal processing of social interaction in ADHD. Sci Rep 14, 17924 (2024). https://doi.org/10.1038/s41598-024-68905-7](https://github.com/fahsuanlin/asociality_movies/blob/main/images/Figure%201.png)
-
-Ref: [](https://www.nature.com/articles/s41598-024-68905-7?fbclid=IwY2xjawEbgF1leHRuA2FlbQIxMQABHcNbBG49loA__RbdRxVagawPieGyMCg7zqM50IEaX7eqRgfj9ky3oog8_A_aem_0nLKcdF2tzwO5bsWRZ2uQQ)
+Ref:[Yang, MT., Fan, HC., Lee, HJ. et al. Inter-subject gamma oscillation synchronization as a biomarker of abnormal processing of social interaction in ADHD. Sci Rep 14, 17924 (2024). https://doi.org/10.1038/s41598-024-68905-7](https://github.com/fahsuanlin/asociality_movies/blob/main/images/Figure%201.png)
 
 ![Here](https://github.com/fahsuanlin/asociality_movies/blob/main/doc/social_movie_basketball_trim1.mov) is the link to the sampled movie clips with low-level (left) and high-level (right) social interactions.
 
